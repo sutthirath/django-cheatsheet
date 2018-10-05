@@ -61,6 +61,6 @@ def route2_name(request, variable_name):
     return render(request, 'template2.html', {'data': string_variable})
     
 def route3_name(request):
-    return render(request, 'template3.name', {'data': variable_name))
+    return render(request, 'template3.html', {'data': variable_name})
     
 ```
