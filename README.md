@@ -13,7 +13,7 @@ python3 manage.py runserver
 
 ## How do you stop it?
 ```
-
+control + c
 ```
 
 
